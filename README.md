@@ -4,8 +4,8 @@ Full Blogging Platform Backend with Comments &amp; Likes Objective full site man
 
  # A secure and scalable blogging platform backend built with Laravel and MySQL, supporting posts, comments, likes, and user authentication with role-based access control.
 
-🚀 # Features Implemented
-🔐 # Authentication & Middleware
+🚀 ## Features Implemented
+🔐 ## Authentication & Middleware
 
 JWT-based authentication with refresh token support.
 
